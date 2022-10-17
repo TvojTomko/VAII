@@ -125,7 +125,6 @@ footer {
   transition: 0.4s;
   display: inline-block;
   text-decoration: none;
-  cursor: pointer;
 }
 
 .button-footer:hover {
@@ -137,4 +136,9 @@ footer {
 .sm-opacity:hover {
   color: #00CC00;
   transition: 0.3s;
+}
+
+.register{
+  padding-top: 25px;
+  text-decoration: none;
 }
