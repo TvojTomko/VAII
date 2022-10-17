@@ -1,0 +1,140 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://www.w3schools.com/w3images/mac.jpg");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.mygreen-bg {
+  background-color: #00CC00;
+}
+
+.mygreen-text {
+  color: #00CC00;
+}
+
+.mygrey-bg {
+  background-color: #303030;
+}
+
+.mygrey-text {
+  color: #303030;
+}
+
+.contactform {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.title {
+  text-align: center;
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+.title-special {
+  font-size: 30px;
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.classic-text {
+  font-size: 15px;
+  color: #FFFFFF;
+}
+
+footer {
+  padding: 30px;
+}
+
+.home-icon {
+  padding-right: 10px;
+}
+
+.button-logo {
+  background-color: #FFFFFF;
+  border: none;
+  padding: 10px 30px;
+  text-align: center;
+  font-size: 18px;
+  margin: 5px 5px;
+  transition: 0.4s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button-logo:hover, .button-menu:hover {
+  background-color: #303030;
+  color: #00CC00;
+}
+
+.button-menu {
+  background-color: #FFFFFF;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px 5px;
+  text-align: center;
+  font-size: 18px;
+  transition: 0.4s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button-footer:hover {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #00CC00;
+}
+
+.sm-opacity:hover {
+  color: #00CC00;
+  transition: 0.3s;
+}
