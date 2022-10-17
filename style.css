@@ -180,7 +180,11 @@ footer {
   padding: 20px;
 }
 
-.dogsfamily-img {
-  width: 700px;
-  height: 394px;
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.sectionpadding {
+  padding-top: 100px;
 }
