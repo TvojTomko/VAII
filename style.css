@@ -1,4 +1,6 @@
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body{
+  font-family: "Raleway", sans-serif;
+}
 
 body, html {
   height: 100%;
@@ -63,8 +65,9 @@ body, html {
 
 .title {
   text-align: center;
-  font-size: 35px;
+  font-size: 30px;
   text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
 }
 
 .title-special {
@@ -141,4 +144,8 @@ footer {
 .register{
   padding-top: 25px;
   text-decoration: none;
+}
+
+.image {
+  width: 100%;
 }
