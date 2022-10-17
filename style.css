@@ -58,6 +58,10 @@ body, html {
   color: #303030;
 }
 
+.white-text {
+  color: #FFFFFF;
+}
+
 .contactform {
   padding-left: 10%;
   padding-right: 10%;
@@ -151,5 +155,32 @@ footer {
 }
 
 .theme-image {
+  max-width: 100%;
+  height: auto;
+}
 
+.bar1 {
+  width: 90%;
+}
+
+.bar2 {
+  width: 85%;
+}
+
+.bar3{
+  width: 75%;
+}
+
+.promo1 {
+  padding:128px 16px;
+}
+
+.promo2 {
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+.dogsfamily-img {
+  width: 700px;
+  height: 394px;
 }
